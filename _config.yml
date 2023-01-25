@@ -40,10 +40,6 @@ markdown: kramdown
 theme: minima
 #remote_theme: "mmistakes/jekyll-theme-basically-basic@1.4.5"
 
-minima:
-  skin: dark
-  date_format: "%b %-d, %Y"
-      - { platform: github,  user_url: "https://github.com/jekyll/jekyll" }
 plugins: # previsously gems
   - jekyll-feed
   - jekyll-seo-tag
@@ -86,14 +82,12 @@ exclude:
 
 # Front Matter Defaults
 defaults:
-  -
-    scope:
+  - scope:
       path: ""
       type: "pages"
     values:
       layout: "my-site"
-  -
-    scope:
+  - scope:
       path: "projects"
       type: "pages" # previously `page` in Jekyll 2.2.
     values:
