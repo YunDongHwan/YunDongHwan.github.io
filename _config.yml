@@ -35,7 +35,9 @@ show_aboutme_card: true
 # about_me_title: The will be displayed as the title in the About Me section
 about_me_title: About Me
 # about_me_description: This will be displayed under the title.
-about_me_description: 👋 Hi, my name is YunDongHwan and I'm from Korean. \n👥 I have experience working in agile environments and am a convinced advocate of clean code.
+about_me_description:
+  - 👋 Hi, my name is YunDongHwan and I'm from Korean.<br>
+  - 👥 I have experience working in agile environments and am a convinced advocate of clean code.
 
 # SKILLS SECTION
 # show_skills_card:
