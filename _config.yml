@@ -69,7 +69,7 @@ projects_title: Projects
 # show_os_projects:
 # > setting this to true, will display your public projects on github
 # > setting this to false, will omit your public projects on github
-show_os_projects: true
+show_os_projects: false
 # os_projects_title: The will be displayed as the title of your open source projects
 os_projects_title: Open Source Projects
 
@@ -81,17 +81,14 @@ show_contact_card: true
 # contact_title: The will be displayed as the title in the Contact section
 contact_title: Contact
 # contact_description: This will be displayed under the title.
-contact_description:
-  Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat,
-  sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum.
-  If you like this theme and want to use it for yourself, checkout the source code and the documentation at
+contact_description: The way to reach me is always open.
   <a class="highlight-link" href="https://github.com/longpdo/neumorphism" target="_blank" rel="noreferrer">
   Github </a>.
 
 # GITHUB-METADATA
 # Set this to your forked repository
 # > e.g. <user>/<user>.github.io
-repository: longpdo/neumorphism
+repository: YunDongHwan/YunDongHwan.github.io
 projects:
   # sortby:
   # > set this to pushed, if you want to sort your github repositories by time.
