@@ -75,10 +75,10 @@ a:hover {
     4px 4px 2px 0 rgba(0, 0, 0, 0.4);
 }
 .neumorphism-card {
-  box-shadow: inset 2px 2px 4px #000, inset -2px -2px 4px #636363;
+  box-shadow: inset 1px 1px 2px #000, inset -1px -1px 2px #636363;
 }
 .neumorphism-card-big {
-  box-shadow: 5px 5px 4px #161718, -5px -5px 4px #404346;
+  box-shadow: 3px 3px 2px #161718, -3px -3px 2px #404346;
 }
 #preloader {
   -ms-flex-align: center;
