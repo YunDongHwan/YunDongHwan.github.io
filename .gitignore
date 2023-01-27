@@ -1,16 +1,8 @@
-## MacOS
-*.DS_Store
-.bundle
+_site
 .sass-cache
 node_modules
-package.json
-
-## Jekyll stuff
-/_site/
-_site/
-.sass-cache/
+.DS_STORE
+.jekyll-cache
+.env
+.prettierignore
 .jekyll-metadata
-.jekyll
-Gemfile
-Gemfile.lock
-https://gmlwjd9405.github.io/2017/10/06/Jekyll-github.io-blog-3.html
