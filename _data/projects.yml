@@ -16,6 +16,7 @@
 - name: PingPong WebSite
   descr: "pong이라는 게임을 기반으로하는 실시간 게임 사이트를 개발하는 프로젝트 입니다. 사용자들끼리 radder 매치 및 1대1 사설 매치를 가능하게 제공하며, 다른 사용자들과 채팅 서비스 또한 제공합니다."
   github: https://github.com/Dream-Transcendence/ft_transcendence/
+  Review: https://velog.io/@flfns333/%EA%B2%8C%EC%9E%84-%EC%B1%84%ED%8C%85-%EC%84%9C%EB%B9%84%EC%8A%A4-%EA%B0%9C%EB%B0%9C%EC%9D%84-%ED%95%98%EA%B3%A0%EB%82%98%EC%84%9C
   tags:
     - tag: Typescript
     - tag: React

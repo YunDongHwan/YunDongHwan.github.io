@@ -12,9 +12,18 @@
       class="highlight-link"
       href="{{project.github}}"
       target="_blank"
-      rel="noreferrer"
+      rel="github link"
     >
       Github
+    </a>
+    {% endif %} {% if project.Review %}
+    <a
+      class="highlight-link"
+      href="{{project.Review}}"
+      target="_blank"
+      rel="blog link"
+    >
+      Review
     </a>
     {% endif %} {% if project.tags %}
     <div class="tag-wrapper">
@@ -26,7 +35,8 @@
   </div>
   {% endfor %}
 </div>
-{% endif %} {% if site.show_os_projects %}
+{% endif %}
+<!-- {% if site.show_os_projects %}
 <h1 class="title">{{site.os_projects_title}}</h1>
 {% if site.projects.sort_by == 'stars' %} {% assign sort_order =
 'stargazers_count', 'last' %} {% else %} {% assign sort_order = 'pushed_at' %}
@@ -115,4 +125,4 @@ reverse %} {% else %} {% assign filtered_repos = site.github.public_repositories
   </div>
   {% endunless %} {% endfor %}
 </div>
-{% endif %}
+{% endif %} -->
