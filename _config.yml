@@ -82,13 +82,11 @@ show_contact_card: true
 contact_title: Contact
 # contact_description: This will be displayed under the title.
 contact_description: The way to reach me is always open.
-  <a class="highlight-link" href="https://github.com/longpdo/neumorphism" target="_blank" rel="noreferrer">
-  Github </a>.
-
+Communicate and share knowledge~!🙌
 # GITHUB-METADATA
 # Set this to your forked repository
 # > e.g. <user>/<user>.github.io
-repository: YunDongHwan/YunDongHwan.github.io
+repository: YunDongHwan/jjj
 projects:
   # sortby:
   # > set this to pushed, if you want to sort your github repositories by time.
