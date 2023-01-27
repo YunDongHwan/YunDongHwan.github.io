@@ -6,7 +6,7 @@
 #   weight: 5
 
 - name: React
-  weight: 4
+  weight: 3
 
 - name: Node
   weight: 4
@@ -15,7 +15,7 @@
   weight: 2
 
 - name: Swagger
-  weight: 3
+  weight: 2
 # - name: Express
 #   weight: 3
 
