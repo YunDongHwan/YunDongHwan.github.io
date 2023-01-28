@@ -7,7 +7,7 @@ title: YunDongHwan
 description: YunDongHwan's Portfolio Website
 # baseurl: The subpath of your site
 # > set this to "", if you renamed the repository to <user>.github.io
-baseurl: ""
+baseurl: "/1"
 
 # LANDING PAGE
 # username: This will displayed on the landing page as your name.
@@ -76,11 +76,15 @@ show_os_projects: false
 # os_projects_title: The will be displayed as the title of your open source projects
 os_projects_title: Open Source Projects
 
+show_certificates_card: true
+show_certificates: true
+certificates_title: Certificates
+
 # CONTACT SECTION
 # show_contact_card:
 # > setting this to true, will display the Contact section
 # > setting this to false, will omit the Contact section
-show_contact_card: true
+show_contact_card: false
 # contact_title: The will be displayed as the title in the Contact section
 contact_title: Contact
 # contact_description: This will be displayed under the title.
@@ -89,7 +93,7 @@ contact_description: The way to reach me is always open. Communicate and share k
 # GITHUB-METADATA
 # Set this to your forked repository
 # > e.g. <user>/<user>.github.io
-repository: YunDongHwan/jjj
+repository: YunDongHwan/YunDongHwan.github.io
 projects:
   # sortby:
   # > set this to pushed, if you want to sort your github repositories by time.

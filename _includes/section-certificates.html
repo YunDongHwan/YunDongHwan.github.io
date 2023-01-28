@@ -1,0 +1,38 @@
+{% if site.show_certificates_card %}
+<h1 class="title"><span>{{site.certificates_title}}</span></h1>
+<div class="projects-wrapper">
+  {% for certificate in site.data.certificates %}
+  <div class="project neumorphism-card" data-aos="zoom-in-down">
+    <div class="name-link-wrapper">
+      <h3>{{certificate.name}}</h3>
+    </div>
+    <p class="project-desc">{{certificate.descr}}</p>
+    {% if certificate.github %}
+    <a
+      class="highlight-link"
+      href="{{certificate.github}}"
+      target="_blank"
+      rel="github link"
+    >
+      Github
+    </a>
+    {% endif %} {% if certificate.Review %}
+    <a
+      class="highlight-link"
+      href="{{certificate.Review}}"
+      target="_blank"
+      rel="blog link"
+    >
+      Review
+    </a>
+    {% endif %} {% if certificate.tags %}
+    <div class="tag-wrapper">
+      {% for tag in certificate.tags %}
+      <span class="tag neumorphism-card">{{tag.tag}}</span>
+      {% endfor %}
+    </div>
+    {% endif %}
+  </div>
+  {% endfor %}
+</div>
+{% endif %}
