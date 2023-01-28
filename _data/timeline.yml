@@ -24,9 +24,10 @@
   tags:
     - tag: C
     - tag: C++
+    - tag: Javascript
+    - tag: Docker
     - tag: Makefile
     - tag: vim
-    - tag: Javascript
   timeline-side: left
 
 - title: PingPong Web Service

@@ -6,7 +6,7 @@
 #   weight: 5
 
 - name: Git
-  weight: 5
+  weight: 4
 
 - name: Bash
   weight: 3

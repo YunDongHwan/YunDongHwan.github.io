@@ -14,7 +14,7 @@
 #     - tag: Node
 
 - name: PingPong WebSite
-  descr: "[실시간 게임 사이트] <br> 
+  descr: "[실시간 게임 사이트] - Frontend Developer<br> 
   Pong이라는 게임을 기반으로하는 실시간 게임 사이트를 개발하는 프로젝트 입니다. <br>
   사용자들끼리 radder 매치 및 1대1 사설 매치를 가능하게 제공하며, 다른 사용자들과 채팅 서비스 또한 제공합니다."
   github: https://github.com/Dream-Transcendence/ft_transcendence/
@@ -27,7 +27,7 @@
     - tag: SocketIO
 
 - name: 42Dashboard
-  descr: "[유저데이터 기반 메트릭 서비스]<br>
+  descr: "[유저데이터 기반 메트릭 서비스] - Backend Developer<br>
   구글 스프레드시트로 관리하던 1000명이 넘는 학생들의 데이터를 시각화 할 수 있는 웹 서비스를 개발하였습니다. <br>
   스티키한 대시보드를 만들어 사용자가 원하는 데이터를 형태의 대시보드로 구성할 수 있습니다."
   github: https://github.com/innovationacademy-kr/42dashboard/

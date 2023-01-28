@@ -5,16 +5,22 @@
 # - name: Framework
 #   weight: 5
 
-- name: React
+- name: ReactJS
   weight: 3
 
-- name: Node
-  weight: 4
+- name: NodeJS
+  weight: 3
+
+- name: NestJS
+  weight: 3
 
 - name: Spring
-  weight: 2
+  weight: 1
 
 - name: Swagger
+  weight: 2
+
+- name: SocketIO
   weight: 2
 # - name: Express
 #   weight: 3

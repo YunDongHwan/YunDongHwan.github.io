@@ -7,7 +7,7 @@ title: YunDongHwan
 description: YunDongHwan's Portfolio Website
 # baseurl: The subpath of your site
 # > set this to "", if you renamed the repository to <user>.github.io
-baseurl: "/1"
+baseurl: ""
 
 # LANDING PAGE
 # username: This will displayed on the landing page as your name.
@@ -37,7 +37,9 @@ about_me_title: About Me
 # about_me_description: This will be displayed under the title.
 about_me_description:
   - 👋 Hi, my name is YunDongHwan and I'm from Korean.<br>
-  - 👥 I have experience working in agile environments and am a convinced advocate of clean code.
+  - 👨‍💻 I want to focus on backend development and grow like that.<br>
+  - 👥 I have experience working in agile environments<br>
+  - ✍️ If there's something I don't know, I'll learn and if I do, I'll share.
 
 # SKILLS SECTION
 # show_skills_card:
