@@ -36,6 +36,8 @@ show_aboutme_card: true
 about_me_title: About Me
 # about_me_description: This will be displayed under the title.
 about_me_description:
+  - 🎨 Let's draw the future with stronger and better paint called the present on the picture of the past that I have drawn.<br>
+  - <br>
   - 👋 Hi, my name is YunDongHwan and I'm from Korean.<br>
   - 👨‍💻 I want to focus on backend development and grow like that.<br>
   - 👥 I have experience working in agile environments.<br>
