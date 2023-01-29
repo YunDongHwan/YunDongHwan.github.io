@@ -36,11 +36,10 @@
   subtitle: Frontend Developer
   tags:
     - tag: TypeScript
-    - tag: NestJS
-    - tag: PostgreSQL
-    - tag: Swagger
-    - tag: ERD cloud
-    - tag: AWS
+    - tag: React
+    - tag: Recoil
+    - tag: Figma
+    - tag: SocketIO
   timeline-side: right
 
 - title: 42Dashboard
@@ -49,10 +48,11 @@
   subtitle: Backend Developer
   tags:
     - tag: TypeScript
-    - tag: React
-    - tag: Recoil
-    - tag: Figma
-    - tag: SocketIO
+    - tag: NestJS
+    - tag: PostgreSQL
+    - tag: ERD cloud
+    - tag: AWS
+
   timeline-side: right
 
 - title: Daejeon University
