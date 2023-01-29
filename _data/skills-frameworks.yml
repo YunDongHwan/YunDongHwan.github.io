@@ -6,7 +6,7 @@
 #   weight: 5
 
 - name: ReactJS
-  weight: 3
+  weight: 2
 
 - name: NodeJS
   weight: 3
@@ -18,10 +18,10 @@
   weight: 1
 
 - name: Swagger
-  weight: 2
+  weight: 1
 
 - name: SocketIO
-  weight: 2
+  weight: 1
 # - name: Express
 #   weight: 3
 
