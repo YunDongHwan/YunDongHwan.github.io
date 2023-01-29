@@ -88,7 +88,7 @@ certificates_title: Certificates
 # show_contact_card:
 # > setting this to true, will display the Contact section
 # > setting this to false, will omit the Contact section
-show_contact_card: false
+show_contact_card: true
 # contact_title: The will be displayed as the title in the Contact section
 contact_title: Contact
 # contact_description: This will be displayed under the title.
